@@ -14,3 +14,5 @@ bot.on("message", async message => {
         message.reply("Pong!")
     }
 });
+
+bot.login(config.token)
