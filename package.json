@@ -1,8 +1,11 @@
 {
   "name": "discordjsv12",
   "version": "1.0.0",
-  "description": "",
+  "description": "Discord bot template, change is you want :)",
   "main": "index.js",
+  "repository": {
+    "url": "https://github.com/Thqmaz/discordjsv12"
+  },
   "dependencies": {
     "discord.js": "^12.3.1"
   },
